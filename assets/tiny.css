@@ -1,6 +1,4 @@
-:root {
-    --danger-color: #C50;
-}
+@namespace tiny "https://github.com/duzy/css/tiny";
 .danger {
-    color: var(--danger-color);
+    color: var(--danger-color, #C50);
 }

@@ -15,9 +15,16 @@ Links
 -----
 
   * [CSS][css]
+  * [CSS Namespaces][css-namespaces]
   * [CSS Variables][css-var]
   * [CSS Color][css-color]
 
 [css]: https://www.w3.org/TR/CSS/
+[css-namespaces]: https://www.w3.org/TR/css-namespaces-3/
 [css-var]: https://www.w3.org/TR/css-variables/
 [css-color]: https://www.w3.org/TR/css3-color/
+[css-anim]: https://www.w3.org/TR/css3-animations/
+[css-speech]: https://www.w3.org/TR/css3-speech/
+[css-transform]: https://www.w3.org/TR/css-transforms-1/
+[css-transition]: https://www.w3.org/TR/css3-transitions/
+[css-conditional]: https://www.w3.org/TR/css3-conditional/

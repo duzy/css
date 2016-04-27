@@ -1,3 +1,4 @@
+@namespace ui "https://github.com/duzy/css/ui";
 .norm {
     color: var(--norm-color, black);
 }
