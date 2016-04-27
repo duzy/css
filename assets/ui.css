@@ -1,0 +1,12 @@
+.norm {
+    color: var(--norm-color, black);
+}
+.info {
+    color: var(--info-color, teal);
+}
+.warn {
+    color: var(--warn-color, red);
+}
+.fail {
+    color: var(--fail-color, maroon);
+}
