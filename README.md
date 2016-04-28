@@ -18,6 +18,8 @@ Links
   * [CSS Namespaces][css-namespaces]
   * [CSS Variables][css-var]
   * [CSS Color][css-color]
+  * [CSS Selectors][css-selectors]
+  * [Custom Elements][customelements]
 
 [css]: https://www.w3.org/TR/CSS/
 [css-namespaces]: https://www.w3.org/TR/css-namespaces-3/
@@ -28,3 +30,5 @@ Links
 [css-transform]: https://www.w3.org/TR/css-transforms-1/
 [css-transition]: https://www.w3.org/TR/css3-transitions/
 [css-conditional]: https://www.w3.org/TR/css3-conditional/
+[css-selectors]: https://www.w3.org/TR/css3-selectors/
+[customelements]: http://www.html5rocks.com/en/tutorials/webcomponents/customelements/
